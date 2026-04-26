@@ -19,7 +19,7 @@
 
 ### 📊 GitHub Activity
 
-![Khushi's Stats](https://vercel.app)
+![Khushi's Stats](https://github-readme-stats.vercel.app/api?username=khushi-coder337&theme=radical)
 
 ![Top Langs](https://vercel.app)
 ---
