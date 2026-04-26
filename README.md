@@ -18,7 +18,9 @@
 - 🏗️ Planning my first Java-based backend project.
 
 ### 📊 GitHub Activity
+
 ![Khushi's Stats](https://vercel.app)
+
 ![Top Langs](https://vercel.app)
 
 ---
