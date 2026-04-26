@@ -21,6 +21,6 @@
 
 ![Khushi's Stats](https://github-readme-stats.vercel.app/api?username=khushi-coder337&theme=radical)
 
-![Top Langs](https://vercel.app)
+![Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-coder337&layout=compact&theme=radical)
 ---
 📫 **How to reach me:** sunilsingh1191981@gmail.com
