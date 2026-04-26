@@ -19,6 +19,7 @@
 
 ### 📊 GitHub Activity
 ![Khushi's Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
 
 ---
 📫 **How to reach me:** sunilsingh1191981@gmail.com
