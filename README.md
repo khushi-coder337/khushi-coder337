@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Khushi! 👋
 
-<!--
-**khushi-coder337/khushi-coder337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BSc Computer Science Student | Aspiring Software Engineer | Java & DSA**
 
-Here are some ideas to get you started:
+### 🎓 Academic Journey
+- 🏫 Currently in **4th Semester, BSc Computer Science**
+- 🎯 Focus: Strengthening core CS fundamentals and high-level problem solving.
+- 🚀 Deep diving into **Data Structures & Algorithms (DSA)** using **Java** via Sigma Prime.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 My Technical Toolkit
+- **Language:** ![Java](https://shields.io)
+- **Editor:** ![VS Code](https://shields.io)
+- **Version Control:** ![Git](https://shields.io)
+
+### 📈 Current Learning Goals
+- 🧠 Mastering **Recursion, Trees, and Graphs** in Java.
+- 💻 Solving daily challenges on **LeetCode/HackerRank** to improve logic.
+- 🏗️ Planning my first Java-based backend project.
+
+### 📊 GitHub Activity
+![Khushi's Stats](https://vercel.app)
+
+---
+📫 **How to reach me:** sunilsingh1191981@gmail.com
