@@ -8,7 +8,7 @@
 - 🚀 Deep diving into **Data Structures & Algorithms (DSA)** using **Java** via Sigma Prime.
 
 ### 🛠 My Technical Toolkit
-- **Language:** ![Java](https://shields.io)
+- **Language:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&style=for-the-badge&logoColor=white)
 - **Editor:** ![VS Code](https://shields.io)
 - **Version Control:** ![Git](https://shields.io)
 
