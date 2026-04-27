@@ -9,7 +9,7 @@
 
 ### 🛠 My Technical Toolkit
 - **Language:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&style=for-the-badge&logoColor=white)
-- **Editor:** ![VS Code](https://img.shields.io/badge/VS code-0078d7.svg?logo=visual-studio-code&style=for-the-badge&logoColor=white)
+- **Editor:** ![VS Code](https://img.shields.io/badge/VScode-0078d7.svg?logo=visual-studio-code&style=for-the-badge&logoColor=white)
 - **Version Control:** ![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&style=for-the-badge&logoColor=white)
 
 ### 📈 Current Learning Goals
