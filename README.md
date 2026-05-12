@@ -13,7 +13,7 @@
 - **Version Control:** ![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&style=for-the-badge&logoColor=white)
 
 ### 📈 Current Learning Goals
-- 🧠 Mastering **Recursion, Trees, and Graphs** in Java.
+- 🧠 Mastering **Recursion, Trees, and Graphs, Dynamic Programming** in Java.
 - 💻 Solving daily challenges on **LeetCode/HackerRank** to improve logic.
 - 🏗️ Planning my first Java-based backend project.
 
