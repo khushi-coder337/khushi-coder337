@@ -1,9 +1,9 @@
 # Hi, I'm Khushi! 👋
 **Java Backend Developer | Data Structures & Algorithms | Open Source Contributor**
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![LeetCode](https://shields.io)](https://leetcode.com)
-[![GForceG](https://shields.io)](https://geeksforgeeks.org)
+[![LinkedIn](https://shields.io)]([https://linkedin.com](https://www.linkedin.com/in/khushi-191575381/))
+[![LeetCode](https://shields.io)]([https://leetcode.com](https://leetcode.com/u/khushi-coder337/))
+[![GForceG](https://shields.io)]([https://geeksforgeeks.org](https://www.geeksforgeeks.org/profile/khushi2007))
 
 ---
 
