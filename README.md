@@ -22,15 +22,21 @@
 
 ### 📊 Live Performance Metrics
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=khushi-coder337&theme=radical&v=1" alt="Khushi's LeetCode Stats" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-coder337&theme=radical&layout=compact&v=1" alt="Top Languages" height="180px" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushi-coder337&show_icons=true&theme=radical&cache_seconds=1800"
+       alt="Khushi's GitHub Stats"
+       height="180px"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-coder337&layout=compact&theme=radical&cache_seconds=1800"
+       alt="Top Languages"
+       height="180px"/>
 </p>
 
-<p align="left">
-<img src="https://leetcard.jacoblin.cool/khushi-coder337?theme=radical" alt="Khushi's LeetCode Stats" height="180px" />
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/khushi-coder337?theme=dark&ext=heatmap"
+       alt="Khushi's LeetCode Stats"
+       height="220px"/>
 </p>
-
 ---
 
 ### 📫 Contact & Collaboration
