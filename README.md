@@ -23,12 +23,12 @@
 ### 📊 Live Performance Metrics
 
 <p align="left">
-<img src="https://vercel.app" alt="Khushi's GitHub Stats" height="180px" />
-<img src="https://vercel.app" alt="Top Languages" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api?username=khushi-coder337&theme=radical" alt="Khushi's GitHub Stats" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-coder337&theme=radical&layout=compact" alt="Top Languages" height="180px" />
 </p>
 
 <p align="left">
-<img src="https://herokuapp.com" alt="Khushi's LeetCode Stats" height="180px" />
+<img src="https://leetcard.jacoblin.cool/khushi-coder337?theme=radical" alt="Khushi's LeetCode Stats" height="180px" />
 </p>
 
 ---
