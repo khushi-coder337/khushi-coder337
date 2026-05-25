@@ -23,11 +23,11 @@
 ### 📊 Live Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushi-coder337&show_icons=true&theme=radical&cache_seconds=1800"
+  <img src="https://stats-github-readme.vercel.app/api?username=khushi-coder337&show_icons=true&theme=radical"
        alt="Khushi's GitHub Stats"
        height="180px"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-coder337&layout=compact&theme=radical&cache_seconds=1800"
+  <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=khushi-coder337&layout=compact&theme=radical"
        alt="Top Languages"
        height="180px"/>
 </p>
